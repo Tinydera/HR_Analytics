@@ -38,9 +38,10 @@ This HR Analytics dashboard provides comprehensive insights into workforce dynam
 * Interactive Filters
 * Dynamic Visualizations
 
-Project Demo
-[Link to your video demonstration]
-[Any additional documentation links]
+## Project Demo
+- [(https://drive.google.com/file/d/12gkJwUDyc164AUwMzZpdhfCZ0RaXgMMv/view)]
+### Quick Links
+- [(https://drive.google.com/file/d/12gkJwUDyc164AUwMzZpdhfCZ0RaXgMMv/view)]
 
 # Future Enhancements
 * Predictive Attrition Modeling
